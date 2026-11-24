@@ -62,6 +62,22 @@ A full-stack academic project focused on student management and academic perform
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjaKumari5535&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+
+## 📈 Coding Profiles & Statistics
+
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gunja_Kumari5535?theme=dark&extension=activity)](https://leetcode.com/u/Gunja_Kumari5535/)
+
+### GeeksforGeeks
+
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/gunja3b26)](https://www.geeksforgeeks.org/profile/gunja3b26)
+
+### GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunjaKumari5535&show_icons=true&theme=tokyonight)
+
+
 ## 🤝 Connect With Me
 
 <p>
